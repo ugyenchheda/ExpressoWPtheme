@@ -1,17 +1,7 @@
 /*
-Theme Name: Espresso (shared on wplocker.com)
-Theme URI: http://espresso.boxydemos.com
-Author: Boxy Studio
-Author URI: https://www.boxystudio.com
-Description: A Unique & Powerful Restaurant Theme.
-Version: 1.9.14
-Details URI: http://boxyupdates.com/changelogs/espresso_changelog.html
+Theme Name:Wp Theme for cafe
 */
 
-
-
-
-/* GENERAL STYLING */
 body { position:relative; }
 body, input, textarea, select { font-weight:300; font-size:15px; line-height:23px; }
 * { box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box; margin:0; padding:0; outline:none; }

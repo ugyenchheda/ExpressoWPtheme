@@ -1,6 +1,7 @@
 <?php
 	
 // Do not mess with this part of the file.
+//Main functions included here...
 require_once('updates/theme-update-checker.php');
 $BoxyThemeUpdateChecker = new ThemeUpdateChecker('espresso','http://boxyupdates.com/get/?action=get_metadata&slug=espresso');	
 
